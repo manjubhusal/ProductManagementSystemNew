@@ -15,9 +15,11 @@ System.out.println("       3)CustomerClient ");
 System.out.println("        4)Back          ");
 System.out.println("========================");
 
-System.out.println("Enter the Choice");
+System.out.println("Enter your Name");
+System.out.println("Enter the Menu");
 int choice=sc.nextInt();
 switch(choice) {
+
 
 }
 }
